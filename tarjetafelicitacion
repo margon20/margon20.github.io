@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+        <style>
+        h1 {
+            color: blue;
+        }
+        body{
+            background-color:rgb(159, 205, 235);
+            color: rgb(52, 42, 196);
+        }
+    </style>
+    </head>
+    <body>
+    
+
+        <h1>Feliz Navidad</h1>
+        <p>
+            Queremos felicitaros la Navidad a todos los alumnos del instituto.<br>
+        Todos os habéis esforzado y os mereceis unas vacaciones<br><br>
+        Los profesores
+        
+            
+        </p>
+       <img src="https://www.kasandbox.org/programming-images/cute/CharacterBoy.png">
+        
+    </body>
+</html>
